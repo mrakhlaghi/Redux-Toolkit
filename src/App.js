@@ -12,7 +12,6 @@ function App() {
         <h1>hi Mojtaba !</h1>
         {/* <Counter /> */}
         <div className="App container">
-          {/* <h1>hi saheb !</h1> */}
           {/* <CounterComp /> */}
           <AddTodoForm />
           <TodoList />
